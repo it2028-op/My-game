@@ -1,0 +1,21 @@
+h1 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+body {
+    margin: 0px;
+}
+
+table {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
